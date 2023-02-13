@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.hexnowloading.hexfortress.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "HexFortressMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
